@@ -68,6 +68,9 @@ A band pass filter has a pass band between two cutoff frequencies fH and fL such
 ## MODEL GRAPH: BANDPASS FILTER
 <img width="1058" height="537" alt="image" src="https://github.com/user-attachments/assets/46f7ef48-e8af-437c-958f-680c32873aaa" />
 
+## TABULATION: BANDPASS FILTER
+<img width="547" height="310" alt="image" src="https://github.com/user-attachments/assets/d2b52f47-02d3-4683-99b3-71be13b4dced" />
+
 ## GRAPH: BANDPASS FILTER
  ![WhatsApp Image 2025-11-17 at 12 56 11_f74385e7](https://github.com/user-attachments/assets/72964266-af4b-4c78-9e16-a765d37b4c57)
                                                                                             
@@ -103,4 +106,4 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
 6. Calculate passband gain and plot the graph of frequency versus voltage gain & check the graph to get approximately the same characteristic as shown in the model graph.
 
 ## RESULT:
-
+The active low pass, high pass ,Bandpass filters are designed and testeed using op-amp IC 741
