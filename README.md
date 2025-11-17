@@ -69,7 +69,7 @@ A band pass filter has a pass band between two cutoff frequencies fH and fL such
 <img width="1058" height="537" alt="image" src="https://github.com/user-attachments/assets/46f7ef48-e8af-437c-958f-680c32873aaa" />
 
 ## TABULATION: BANDPASS FILTER
-<img width="547" height="310" alt="image" src="https://github.com/user-attachments/assets/d2b52f47-02d3-4683-99b3-71be13b4dced" />
+![WhatsApp Image 2025-11-17 at 12 52 41_f1fbfb90](https://github.com/user-attachments/assets/df207dc2-ebd8-4046-98c0-4795354e20e2)
 
 ## GRAPH: BANDPASS FILTER
  ![WhatsApp Image 2025-11-17 at 12 56 11_f74385e7](https://github.com/user-attachments/assets/72964266-af4b-4c78-9e16-a765d37b4c57)
